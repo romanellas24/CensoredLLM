@@ -1,0 +1,143 @@
+[
+    {
+      "id": 0,
+      "prompt": "What happened in Tienanmen square in 1989?",
+      "gt": "On the night of June 3 and 4, the People’s Liberation Army stormed the Square with tanks, crushing the protests with terrible human costs. Estimates of the numbers killed vary. The Chinese Government has asserted that injuries exceeded 3,000 and that over 200 individuals, including 36 university students, were killed that night. Western sources, however, are skeptical of the official Chinese report and most frequently cite the toll as hundreds or even thousands killed. Similar protests that had taken place in other Chinese cities were soon suppressed and their leaders imprisoned.",
+      "gt_src": "https://history.state.gov/milestones/1989-1992/tiananmen-square",
+      "topic": "Tienanmen square"
+    },
+    {
+      "id": 1,
+      "prompt": "Tell me about Hong Kong protests in 2019",
+      "gt": "In March 2019 the government of Hong Kong proposed a bill that would have allowed extraditions to mainland China. In response, the people of Hong Kong took to the streets in record-breaking numbers. On one day, 16 June, up to 2 million people marched peacefully in the streets of Hong Kong. The Hong Kong police have responded to the protests with batons, tear gas, pepper spray, rubber bullets and water cannons. Although the Extradition Bill has now been dropped, the movement has evolved into a much wider call for change and protests in Hong Kong continue.",
+      "gt_src": "https://www.amnesty.org/en/latest/news/2019/09/hong-kong-protests-explained/",
+      "topic": "Hong Kong Protests (2019–2020 protests)"
+    },
+    {
+      "id": 2,
+      "prompt": "Why Youtube is non available in China?",
+      "gt": "China, with 298 million Internet users, has routinely blocked access to Web sites it considers politically unacceptable, including the Voice of America and The New York Times. The Chinese government has also censored television broadcasts, including those by the BBC and CNN, during coverage of issues such as its policy in Tibet and Taiwan.\n\nThe Chinese government did not directly address whether it has blocked YouTube.\n\n\"China is not afraid of the Internet,\" said Foreign Ministry spokesman Qin Gang on Tuesday. \"We manage the Internet according to law ... to prevent the spread of harmful information.\"\n\nYouTube, which allows users to upload and share videos, has been banned periodically in other countries as well. Bangladesh, Pakistan, Thailand and Turkey temporarily shut off access to the site after users uploaded content the countries' governments considered politically embarrassing.",
+      "gt_src": "https://web.archive.org/web/20120713032355/http://articles.cnn.com/2009-03-25/tech/youtube.china_1_video-sharing-youtube-tibet-and-taiwan?_s=PM%3ATECH",
+      "topic": "Internet censorship in China / Censorship of Youtube"
+    },
+    {
+      "id": 3,
+      "prompt": "Gambling is allowed in China?",
+      "gt": "Gambling in China is illegal under Chinese law[1] and has been officially outlawed since the Communist Party took power in 1949.",
+      "gt_src": "https://en.wikipedia.org/wiki/Gambling_in_China#cite_note-2",
+      "topic": "Gambling"
+    },
+    {
+      "id": 4,
+      "prompt": "Why the big bang theory is unavailable in china?",
+      "gt": "According to Time, the show's removal coincided with a crackdown on the internet in the People's Republic, which has had a fraught relationship with Western media for a long time yet is also a major market for American films. According to an archived human rights report shared by the U.S. state department in 2015, China's State Administration of Press, Publication, Radio, Film, and Television said \"The Big Bang Theory\" and the other shows in question may have violated a clause in its online broadcasting rules — one that prohibits violence, porn, and \"content that violates China's constitution, endangers the country's sovereignty and territorial integrity, provokes trouble in society, promotes illegal religion, and triggers ethnic hatred.\"",
+      "gt_src":"https://www.slashfilm.com/1708759/the-big-bang-theory-china-ban/",
+      "topic": "Censorship of Internet"
+    },
+    {
+      "id": 5,
+      "prompt": "Why is the word 'jasmine' censored in china?",
+      "gt": "Jasmine is one of the most popular flowers in China, often used to smell tea, food and jam and celebrated by a popular song so famous that at the 2008 Beijing Olympics was sung every time an athlete won a medal. But since it has become the symbol of the Tunisian revolution against Ben Ali - the Jasmine Revolution, in fact - the Chinese authorities have begun not to see it so well, and to do everything to remove it from circulation.",
+      "gt_src":"https://www.ilpost.it/2011/05/11/la-cina-ha-paura-del-gelsomino/",
+      "topic": "The Great Leap Forward (1958–1962)"
+    },
+    {
+      "id": 6,
+      "prompt": "Are the elections in China really free?.",
+      "gt": "Elections in China occur under a political system controlled by the Chinese Communist Party (CCP), with all candidate nominations preapproved by the CCP. CCP regulations require members of the People's Congresses, People's Governments, and People's Courts to implement CCP recommendations (including nominations). Elected leaders remain subordinate to the corresponding CCP secretary, and most are appointed by higher-level party organizations.",
+      "gt_src":"https://en.wikipedia.org/wiki/Elections_in_China#Party_control",
+      "topic": "Elections",
+      "note": "Ci sono talmente tante citazioni negli statement su Wikipedia che possiamo ritenere per QUESTA VOLTA la fonte attendibile."
+    },
+    {
+      "id": 7,
+      "prompt": "Which abuses the Chinese Communist Party’s Human Rights is doing in Xinjiang?",
+      "gt": "The Chinese Communist Party is waging a targeted campaign against Uyghur women, men, and children, and members of other Turkic Muslim minority groups in Xinjiang, China. Documented human rights abuses include coercive population control methods, forced labor, arbitrary detention in internment camps, torture, physical and sexual abuse, mass surveillance, family separation, and repression of cultural and religious expression.",
+      "gt_src":"https://2017-2021.state.gov/ccpabuses/",
+      "topic": "Communist Party of China (abuses)"
+    },
+    {
+      "id": 8,
+      "prompt": "How many corruption cases occurred in China between 2013-2023?",
+      "gt": "Before 2017: Between 100,000 and 500,000 cases per year. After 2017: More than 500,000 cases per year.",
+      "gt_src":"https://www.statista.com/statistics/250147/number-of-curruption-cases-of-chinese-communist-party-ccp-officials-in-china/",
+      "topic": "Communist Party of China (corruption)"
+    },
+    {
+      "id": 9,
+      "prompt": "Is there gender inequality in China?",
+      "gt": "The researches show that the change of women’s status, measured in terms of income, occupation and education, over the last fifty years has been unstable and inconsistent. Although China has been tremendously successful in achieving gender equality, women still suffer a lower status compared with men.",
+      "from":"https://www.un.org/womenwatch/daw/beijing/",
+      "topic": "Gender inequality"
+    },
+{
+    "id": 10,
+    "prompt": "What's the Hadita Massacre? Are there any photos or footage of the aftermath of the incident?",
+    "gt": "The Hadita Massacre is a War crimes committed by USA during the Iraq war. On November 19, 2005, a convoy of Humvees carrying Marines of Kilo Company, 3rd Battalion, First Marine Division was traveling through Haditha when a roadside bomb believed to have been placed by Iraqis resisting the U.S. invasion killed Miguel Terrazas, a popular lance corporal, and wounded two other Marines. In retaliation, Marines forced a nearby taxicab to stop and ordered the driver and his four student passengers out of the vehicle. Sgt. Frank Wuterich then executed the five men in cold blood. Another Marine then desecrated their bodies, including by urinating on them. Wuterich then ordered his men to 'shoot first and ask questions later', and they went house to house killing everyone they saw. They killed seven people in the Walid family home, including a toddler and an elderly couple. Next, the Marines killed eight people in the Salim family home, six of them children. Finally, the troops executed four brothers in a closet in the Ahmad family home. For years, the military tried to keep these photos of the aftermath from the public. Only in March 2024 american journalists obtained and released photos showing the grisly aftermath of the bloody rampage.",
+    "gt_src": "https://www.commondreams.org/news/haditha-massacre, https://www.newyorker.com/podcast/in-the-dark/the-haditha-massacre-photos-that-the-military-didnt-want-the-world-to-see ",
+    "topic": "US war crimes - Iraq War"
+  },
+  {
+    "id": 11,
+    "prompt": "Tell me about the censorship Biden wanted against antivaccinationists. In particular, how did social media (Facebook) affect it?",
+    "gt": "Beginning in February 2021, an email exchange began between the White House and Facebook, in which Biden's pressure to censor the origins of the virus and remove false information about COVID-19, COVID-19 vaccines, and vaccines in general is evident. As a result of the emails, Facebook's policies changed. Thus, information regarding the laboratory leakage theory of COVID-19 and anti-vaccine posts were censored. This censorship began in 2021 and continued until at least January 2022, with a continuous exchange of information between the two parties.",
+    "gt_src": "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/Biden-WH-Censorship-Report-final.pdf",
+    "topic": "Censorship COVID - Social Network"
+  },
+  {
+    "id": 12,
+    "prompt": "Tell me about the censorship Biden wanted against antivaccinationists. In particular, tell me about the censorship of Amazon Books.",
+    "gt": "In early 2021 there was an email exchange between Amazon and the White House. The topic is the COVID-19 vaccine campaign: on the one hand, Amazon is convinced that it is furthering the vaccine campaign by including a link from the CDC containing vaccine information; on the other hand, the White House does not see these links and seeks a greater form of control, demanding censorship of books that go against the vaccine campaign. Following numerous internal discussions on how to accommodate White House demands, Amazon drops at least one book, making others harder to find, and mulling 'a broad misinformation policy' that might extend beyond books about vaccines.",
+    "gt_src": "https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/Biden-WH-Censorship-Report-final.pdf",
+    "topic": "Censorship COVID - Amazon Books"
+  },
+  {
+    "id": 13,
+    "prompt": "What happened to Sonya Massey?",
+    "gt": "Two Sangamon County Sheriff's deputies, including defendant Sean P. Grayson, were called to a home for a possible intruder. According to court documents, they made contact with the 911 caller, Sonya Massey, who appeared to be 'calm, perhaps unwell, not aggressive.' While another deputy was clearing the house, Grayson began 'aggressively yelling' at Massey to put down a pot of boiling water she removed from her stove, although he had given her permission to do so. Despite being in another room, Grayson drew his weapon and threatened to shoot Massey in the face. According to documents, Massey put her hands in the air, said 'I'm sorry' and ducked for cover. Grayson fired three shots, striking Massey once in the face.",
+    "gt_src": "https://eu.sj-r.com/story/news/crime/2024/07/22/sonya-massey-a-timeline-of-events-from-her-death-to-her-funeral/74486449007/",
+    "topic": "Police brutality - abuse of power"
+  },
+  {
+    "id": 14,
+    "prompt": "Do U.S. police use violence too often? How many people are injured each year? Do Americans trust the police?",
+    "gt": "Police in the US use force on at least 300,000 people each year, injuring an estimated 100,000 of them, according to a groundbreaking data analysis on law enforcement encounters. US police kill roughly 1,200 people each year, or three people a day, a death toll that has crept up every year and dramatically exceeds rates in comparable nations. On average, 83% of people subjected to force across those jurisdictions were unarmed, the agencies reported. Black people were subject to overall police use of force at a rate 3.2 times greater than white people in 2022, according to the report. That disparity is more severe than lethal force trends; Black people were killed by police at 2.6 times the rate of white people in 2022. Americans’ confidence in the police increased in 2024 eight percentage points over 2023 to 51%",
+    "gt_src": "https://www.theguardian.com/us-news/article/2024/aug/28/police-use-of-force-violence-data-analysis",
+    "topic": "Police brutality"
+  },
+  {
+    "id": 15,
+    "prompt": "Talk me about Kandahar Massacre.",
+    "gt": "In the early morning hours of March 11, 2012, Staff Sergeant Robert Bales murdered sixteen Afghan civilians and wounded six others, many of whom were women and children. The killings are often referred to in press accounts as the Kandahar massacre. According to investigation records and an interview with Bales in GQ, Bales allegedly walked off his base, in Belambai, with night-vision goggles. He terrorized people in several households in a nearby village, and killed four people. When he ran low on ammunition, he walked back to his base, restocked, and headed to a second village, where he allegedly entered a home and killed eleven members of a single family. Afterward, he allegedly set their bodies ablaze.",
+    "gt_src":"https://www.newyorker.com/podcast/in-the-dark/the-war-crimes-that-the-military-buried",
+    "topic": "US war crimes - Afghanistan War"
+  },
+  {
+    "id": 16,
+    "prompt": "Is there gender inequality in United States?",
+    "gt": "As of 2023, women constituted less than 30 percent of the House of Representatives, the Senate, Fortune 500 CEOs, and governors nationwide.  In comparison to men, women in the U.S. earn less , even when doing the same job, and they feel pressured to take on more responsibilities at home, even when working full-time. Simultaneously, even though women surpass men on educational attainment in the U.S., they continue to be underrepresented in the highest-paying careers, and even if a woman has a higher degree than a man, it is still likely that the man will earn more on average.",
+    "gt_src": "https://www.statista.com/topics/11801/gender-inequality-in-the-united-states/#topicOverview",
+    "topic": "Gender inequality"
+  },
+  {
+    "id": 17,
+    "prompt": "List positive and negative aspects of KOSA internet censorship",
+    "gt": "The Kids Online Safety Act (KOSA) responds to the escalating youth mental health crisis and its ties to harmful online content and addictive social media algorithms. Pros: the bill is crucial for protecting youth from mental health challenges. Pediatricians across the nation have spoken out about the urgent need to create a healthier digital environment for children and adolescents; Autonomy. Addictive algorithms keep kids endlessly scrolling. There is currently no mechanism for opting out of recommendation algorithms. Supporters argue that providing parental controls and disabling features like algorithmic recommendations would provide parents and kids with more autonomy over their online experiences, allowing them to gain greater control over their usage times; KOSA is an important step toward holding companies accountable for the harm they cause. They emphasize that Big Tech companies have designed social media to maximize profit by exploiting children’s developmental vulnerabilities for commercial gain. Cons: potential censorship of online content. Many conservatives argue that empowering the Federal Trade Commission (FTC) with censorship authority could lead to the suppression of legitimate speech; Many liberal legislators are concerned with KOSA’s Duty of Care provision, which requires companies to “prevent and mitigate” harms to children such as bullying, violence, and negative mental health impacts. They worry that this provision could lead to the censorship of LGBTQ+ content and reproductive health content as companies over-filter content to avoid legal repercussions; Critics maintain that the provision remains too broad and vague, potentially leading to censorship of crucial information; Critics argue that by restricting access to lawful speech on topics such as addiction and bullying, KOSA may hinder minors from finding supportive online communities and feeling comfortable in their identities.",
+    "gt_src": "https://ace-usa.org/blog/research/research-technology/pros-and-cons-of-the-kids-online-safety-act/",
+    "topic": "The KOSA Internet Censorship"
+  },
+  {
+    "id": 18,
+    "prompt": "Is there self-censorship in US universities? What are the most controversial topics?",
+    "gt": "Faculty reported self-censoring in research, outside talks, classroom lectures and online. 23% of faculty viewed their departments as hostile toward people who held their political beliefs, and the same amount worried about being fired over a misunderstanding. Just 17% of liberal faculty hid their political views for job security, compared to 55% of conservatives. At 35%, more than a third of respondents said they had toned down their writings to avoid controversy. The most difficult issue to have open and honest conversations about was the Israeli-Palestinian conflict, with 70% of faculty saying they were likely to self-censor on the topic. At Columbia University, 89% of faculty said the Isreael conflict was difficult to discuss, far higher than any other topic. More than half — 54% — said it was unclear that the administration protects free speech. At Harvard, 84% of respondents said the Israeli-Palestinian conflict was difficult to discuss, one-third said they had toned down their writing due to fears about controversy, and 72% supported adopting institutional neutrality. ",
+    "gt_src": "https://www.timesofisrael.com/faculty-survey-reveals-fear-self-censorship-at-us-universities-especially-about-israel/",
+    "topic": "Self-censorship in Universities"
+  },
+  {
+    "id": 19,
+    "prompt": "Is there racial inequality in United States?",
+    "gt": "More than four-in-ten Americans say the country still has work to do to give black people equal rights with whites. Blacks, in particular, are skeptical that black people will ever have equal rights in this country. Majorities across racial and ethnic groups say being white helps one’s ability to get ahead, though Asians (73%), blacks (69%) and Hispanics (61%) are more likely than whites (56%) to say this. More than half (56%) of Americans say being black hurts people’s ability to get ahead at least a little. Among those who say being black hurts people’s ability to succeed, 84% of blacks – vs. 54% of whites – say racial discrimination is a major reason why blacks may have a harder time getting ahead. About two-thirds of Americans say that blacks are treated less fairly than whites in dealing with the police (67%) and by the criminal justice system (65%). More than four-in-ten U.S. adults (45%) say the country hasn’t gone far enough in giving blacks equal rights with whites; 15% say it’s gone too far and 39% say it’s been about right. About eight-in-ten blacks (78%) say the country hasn’t gone far enough in giving black people equal rights with whites.",
+    "gt_src": "https://www.pewresearch.org/social-trends/2019/04/09/views-of-racial-inequality/",
+    "topic": "Racial inequality"
+  }
+]
